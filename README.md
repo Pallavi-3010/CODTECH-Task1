@@ -9,6 +9,8 @@
 
 ### Project : Personal Portfolio Website 
 
+![Screenshot (4)](https://github.com/user-attachments/assets/017f7992-84aa-43c4-a03c-193315e1543d)
+
 ### Objective 
 The objective of making a personal portfolio website using HTML, CSS, and JavaScript is to showcase our skills, experience, and work in a curated online space. 
 
