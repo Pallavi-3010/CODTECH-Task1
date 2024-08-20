@@ -1,9 +1,9 @@
-**Name:** Kondapalli Pallavi
-**Company:** CODTECH IT SOLUTIONS 
-**ID:** CT6FWD839
-**Domain:** Frontend web development
-**Duration:** July to August 2024
-**Mentor:** Santhosh
+**Name:**  Kondapalli Pallavi
+**Company:**  CODTECH IT SOLUTIONS 
+**ID:**  CT6FWD839
+**Domain:**  Frontend web development
+**Duration:**  July to August 2024
+**Mentor:**  Santhosh
 
 ### Overview of the Project
 
