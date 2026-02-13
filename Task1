@@ -166,13 +166,13 @@
                                 is a quick story of me and this 
                                 website.
                                 <hr color="black">
-                                I am Pallavi Kondapalli, was currently pursuing my computer science engineering of 3rd year in Geethanjali Institute Of Science And Technology.
+                                I am Pallavi Kondapalli, was currently pursuing my computer science engineering of Final year in Geethanjali Institute Of Science And Technology.
                                 <hr color="black">
 
-                                I do my work mainly in C-Language, 
-                                C++ and JAVA. C and JAVA
+                                I do my work mainly in Python, 
+                                C++ and JAVA. Python and JAVA
                                 are my stronger section.
-                                Besides these I know Basic Web Development,
+                                Besides these I know Web Designing
                                 as well.
                                 <hr color="black">
 
@@ -226,7 +226,7 @@
 
                                     <li>
                                         <hr color="#c2c0c3">
-                                        Basic Mathematical Calculator
+                                        Webscour - A Distributed web crawler and search engine
                                         <a href="#" 
                                            style="text-decoration:none">
                                             &nbsp; 
@@ -237,7 +237,7 @@
 
                                     <li>
                                         <hr color="#c2c0c3">
-                                        Daily Quiz
+                                        Gaming Hub website
                                         <a href="#" 
                                            style="text-decoration:none">
                                             &nbsp; 
@@ -308,7 +308,7 @@
                     <tr>
                         <td height="190" align="center" valign="middle">
                             <font face="Verdana" size="7" color="#4CAF50">
-                                Achievements
+                                Internships
                                 <hr color="#4CAF50" width="100">
                             </font>
                         </td>
@@ -319,11 +319,11 @@
                             <font face="Verdana" size="4" color="white">
                                 <ul>
                                     <li>
-                                        <b>Intern at Technohacks.</b>
-                                       <li> <b>Certified by GDSC for GenAI labs</b></li>
-                                       <li><b>Intern at Oasis Infobyte</b></li>
-                                       <li><b>Certification for Quiz Quest</b></li>
-                                       <li><b>Participant of Google Developers Student Club</b></li>
+                                        <b>Java developer Intern at Technohacks</b>
+                                       <li> <b>Python developer Intern at Infosys Springboard</b></li>
+                                       <li><b>Web developer Intern at Codtech IT Solutions</b></li>
+                                       <li><b>Python developer Intern at Oasis Infobyte</b></li>
+                                       
                                         
                                     </li>
                               
@@ -338,7 +338,7 @@
             </td>
         </tr>
     </table>
-    <!--Achievement(end)-->
+    <!--Internships(end)-->
 
 
     <!--Contact(start)-->
